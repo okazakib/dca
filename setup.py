@@ -25,5 +25,5 @@ setup(
     license='Apache License 2.0',
     classifiers=['License :: OSI Approved :: Apache Software License',
                 'Topic :: Scientific/Engineering :: Artificial Intelligence',
-                 'Programming Language :: Python :: 3.5'],
+                 'Programming Language :: Python :: 3.10.14'],
 )
