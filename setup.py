@@ -8,7 +8,7 @@ setup(
     author_email="gokcen.eraslan@gmail.com",
     packages=['dca'],
     install_requires=['numpy>=1.7',
-                      'tensorflow>=2.0,<2.15,!=2.6',
+                      'tensorflow>=2.0,<2.14,!=2.6',
                       'protobuf<=3.20',
                       'h5py',
                       'six>=1.10.0',
